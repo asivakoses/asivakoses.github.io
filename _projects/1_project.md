@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Biosphere 2 in Oracle, AZ
+description: The U of A's Joint Biology Research Retreat was held in April of 2022 and we were given a chance to go on tours of the failed 90's experiments.
 img: assets/img/12.jpg
 importance: 1
 category: work
