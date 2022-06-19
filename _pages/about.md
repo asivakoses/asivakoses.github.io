@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='arizona.edu'>Graduate Student at The University of Arizona</a>.
 
 profile:
   align: right
